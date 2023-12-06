@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm kakezatou.👋
 
-<!--
-**kakezatou/kakezatou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-🔭 I’m currently working on
+ - Develop an SNS that can solve the problems of the SNSs that currently exist.
+ - Achievements in Programming and CG
 
-Here are some ideas to get you started:
+-🌱 I’m currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Django
+ - node.js
+ - Blender
+ - Unity
+ - html
+
+![](https://github-readme-stats.vercel.app/api?username=kakezatou&count_private=true&show_icons=true&theme=dracula)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kakezatou&layout=compact&theme=dracula)
