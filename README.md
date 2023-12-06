@@ -2,7 +2,7 @@
 
 -🔭 I’m currently working on
  - Develop an SNS that can solve the problems of the SNSs that currently exist
- - Achievements in Programming and CG
+ - Ger achievement in Programming and CG
 
 -🌱 I’m currently learning
 
