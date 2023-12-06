@@ -7,9 +7,9 @@
 -🌱 I’m currently learning
 
  - Django
- - node.js
  - Blender
  - Unity
  - HTML
+ - Node.js
 
 ![](https://github-readme-stats.vercel.app/api?username=kakezatou&count_private=true&show_icons=true&theme=dracula)
