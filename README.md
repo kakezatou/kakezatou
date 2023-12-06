@@ -10,7 +10,7 @@
  - node.js
  - Blender
  - Unity
- - html
+ - HTML
 
 ![](https://github-readme-stats.vercel.app/api?username=kakezatou&count_private=true&show_icons=true&theme=dracula)
 
