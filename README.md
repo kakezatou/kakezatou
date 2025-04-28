@@ -3,10 +3,11 @@
 - 🔭 I’m currently working on
   - Develop an SNS that can solve the problems of the SNSs that currently exist
   - Get achievement in Programming and CG
+  - Create an ingenious and interesting program.
 
 - 🌱 I’m currently learning
 
-  - Django
+  - Python
   - Blender
   - Unity
   - HTML
